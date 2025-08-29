@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Movie-Oclock/static/css/main.e9116d00.css",
-    "main.js": "/Movie-Oclock/static/js/main.739adc81.js",
+    "main.js": "/Movie-Oclock/static/js/main.2e118e8d.js",
     "index.html": "/Movie-Oclock/index.html",
     "main.e9116d00.css.map": "/Movie-Oclock/static/css/main.e9116d00.css.map",
-    "main.739adc81.js.map": "/Movie-Oclock/static/js/main.739adc81.js.map"
+    "main.2e118e8d.js.map": "/Movie-Oclock/static/js/main.2e118e8d.js.map"
   },
   "entrypoints": [
     "static/css/main.e9116d00.css",
-    "static/js/main.739adc81.js"
+    "static/js/main.2e118e8d.js"
   ]
 }
